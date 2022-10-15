@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning android development.
 - 👯 I’m looking to collaborate with people who love software.
+- 🕵️‍♂️ still learning ...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-sar%C4%B1-064a851b3) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Emresari_kt) 
