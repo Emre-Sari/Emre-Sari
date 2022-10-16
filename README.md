@@ -20,14 +20,16 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Emre-Sari&icon=6&color=8)](https://visitcount.itsvg.in)
 
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/emresari"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emresari" /></a>
+<br>
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/emre-sar%C4%B1-064a851b3
 [gmail]: mailto:emresari633@gmail.com
-
 
 
 
