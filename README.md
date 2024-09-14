@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning Swift development.
+- 🌱 I’m currently learning rpa development.
 - 👯 I’m looking to collaborate with people who love software.
 
 ## 📩 Connect with me:
